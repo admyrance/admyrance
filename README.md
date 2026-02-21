@@ -8,4 +8,4 @@
   <br>　　 　 　 　　⋯⋅๑┈•✦:.ೃ࿔..⋆
     
 　　　　　　　[![Static Badge](https://img.shields.io/badge/ata-9C0C18?&style=plastic)](https://tartascara.atabook.org) <img src="https://files.catbox.moe/3pn3lp.png" width="15px"> [![Static Badge](https://img.shields.io/badge/straw-9C0C18?&style=plastic)](https://admyrance.straw.page/) <img src="https://files.catbox.moe/3pn3lp.png" width="15px"> [![Static Badge](https://img.shields.io/badge/main-9C0C18?&style=plastic)](https://rentry.co/myra) <img src="https://files.catbox.moe/3pn3lp.png" width="15px"> [![Static Badge](https://img.shields.io/badge/alt-9C0C18?&style=plastic)](https://rentry.co/tartascara) 
-<br> 　 　 　 　 　 　 　 　<img src="https://i.postimg.cc/Bnx9QS3g/f9afni.gif"> ![Views Counter](https://komarev.com/ghpvc/?username=admyrance&label=+🎕+&color=9C0C18&style=plastic) <img src="https://files.catbox.moe/o0pw01.gif">ㅤ
+<br> 　 　 　 　 　 　 　 　　<img src="https://i.postimg.cc/Bnx9QS3g/f9afni.gif"> ![Views Counter](https://komarev.com/ghpvc/?username=admyrance&label=+🎕+&color=9C0C18&style=plastic) <img src="https://files.catbox.moe/o0pw01.gif">ㅤ
