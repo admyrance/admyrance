@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**admyrance/admyrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://files.strawcdn.com/straw/FTXLDkFQzLOaouDwqkOR.png"width="180px" align="left"> 
+   <br>
+  <img src="https://i.postimg.cc/kG4vzMNn/8.png" width="400px">
+  <br>❝ 𝑎𝑛 𝑖𝑑𝑙𝑒 𝑏𝑟𝑎𝑖𝑛 𝑖𝑛𝑣𝑖𝑡𝑒𝑠 𝑡ℎ𝑒 𝑑𝑒𝑣𝑖𝑙 𝑖𝑛<i>!</i> ♡ <sub>𝑙𝑎, 𝑙𝑎, 𝑙𝑎, 𝑙𝑎, 𝑙𝑎, 𝑙𝑎, 𝑙𝑎, 𝑙𝑎𝑎𝑎<i>!</sub></i>
+  <br>　‎‎‎‎‎‎𝑓𝑎𝑡ℎ𝑒𝑟, 𝑓𝑜𝑟𝑔𝑖𝑣𝑒 𝑚𝑒 𝑓𝑜𝑟 𝑚𝑦 𝑠𝑖𝑛𝑠<i>!</i> ♡ <sub>𝑙𝑎, 𝑙𝑎, 𝑙𝑎, 𝑙𝑎, 𝑙𝑎<i>!!❞</sub></i>
+  <br><img src="https://i.postimg.cc/fW7rkRfZ/tumblr-ad2bdc0b259670312617d8ff1f1adbe7-dbdb588e-100.png" width="100px"> <img src="" width="100px"> <img src="" width="100px"> <img src="https://i.postimg.cc/d3LDd1C4/rbmmok.png" width="100px">
+  <br>　　 　 　 　⋯⋅๑┈•✦:.ೃ࿔..⋆
+    
+　　　　　　[![Static Badge](https://img.shields.io/badge/ata-9C0C18?&style=plastic)](https://tartascara.atabook.org) <img src="https://files.catbox.moe/3pn3lp.png" width="15px"> [![Static Badge](https://img.shields.io/badge/straw-9C0C18?&style=plastic)](https://admyrance.straw.page/) <img src="https://files.catbox.moe/3pn3lp.png" width="15px"> [![Static Badge](https://img.shields.io/badge/main-9C0C18?&style=plastic)](https://rentry.co/myra) <img src="https://files.catbox.moe/3pn3lp.png" width="15px"> [![Static Badge](https://img.shields.io/badge/alt-9C0C18?&style=plastic)](https://rentry.co/tartascara) 
+<br> 　 　 　 　 　 　 　 <img src="https://i.postimg.cc/Bnx9QS3g/f9afni.gif"> ![Views Counter](https://komarev.com/ghpvc/?username=admyrance&label=+🎕+&color=9C0C18&style=plastic) <img src="https://files.catbox.moe/o0pw01.gif">ㅤ
